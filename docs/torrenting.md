@@ -25,6 +25,7 @@
 * [NNM-Club](https://nnmclub.to/) - Video / Audio
 * [Torrenting](https://www.torrenting.com/) - Video / Audio / Books / NSFW / Sign-Up Required
 * [Knaben.info](https://knaben.info/) - Torrent Site Proxies
+* [PirateCat](https://piratecat.pw), [Backup](https://piratecat.xyz)  - Video / Audio / Books / Software / Games / Other
 
 ***
 
