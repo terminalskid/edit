@@ -51,6 +51,8 @@
 * [TehParadox](https://www.tehparadox.net/) - Audio / Books / Magazines / ROMs
 * [downTURK](https://www.downturk.net/) - Audio / Books
 * [SoftArchive](https://softarchive.download/) - Audio / Books / Comics / Newspapers / Magazines / [Mirrors](https://sastatus.com/), [2](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#softarchive-mirrors) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#sanet-warning)
+* [PirateCat](https://piratecat.pw), [Backup](https://piratecat.xyz) - Video / Audio / Books / Software / Games / Other
+* [CobaltLabs](https://cobaltlabs.mysellauth.com) - Software
 
 ***
 
